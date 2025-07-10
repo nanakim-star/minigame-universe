@@ -57,5 +57,5 @@ async function startServer() {
   }
 }
 
-// 5. 프로그램 시작!
+// 5. 프로그램 시작!!
 startServer();
